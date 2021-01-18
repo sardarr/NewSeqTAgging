@@ -1680,9 +1680,6 @@ if __name__ == '__main__':
     train_set_path='mtl_feature/train.txt'
     dev_set_path='mtl_feature/dev.txt'
     test_set_path='mtl_feature/test.txt'
-    train_pkl="data/Rumor/train_rum_ver_stance_cbed_new.pkl"
-    dev_pkl="data/Rumor/dev_rum_ver_stance_cbed_new.pkl"
-    test_pkl="data/Rumor/test_rum_ver_stance_cbed_new.pkl"
     main(args)
 
 
